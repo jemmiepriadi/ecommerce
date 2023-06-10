@@ -1,3 +1,6 @@
 [submodule "ecommerce-fe"]
 	path = ecommerce-fe
 	url = https://github.com/jemmiepriadi/ecommerce-fe.git
+[submodule "ecommerce-be"]
+	path = ecommerce-be
+	url = https://github.com/jemmiepriadi/ecommerce-be
